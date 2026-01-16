@@ -44,8 +44,6 @@
 
 
 
-## GitHub Stats🔧
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CHEW0203&show_icons=true&locale=en" alt="chewjiesheng" /></p>
 
 ## Contact with me📲
 <p align="left">
